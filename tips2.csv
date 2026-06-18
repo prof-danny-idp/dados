@@ -92,7 +92,7 @@
 28.97,3,"Male","Yes","Fri","Dinner",2
 22.49,3.5,"Male","No","Fri","Dinner",2
 5.75,1,"Female","Yes","Fri","Dinner",2
-16.32,4.3,"Female","Yes","Fri","Dinner",2
+16.32,"R$ 4,30","Female","Yes","Fri","Dinner",2
 22.75,3.25,"Female","No","Fri","Dinner",2
 40.17,4.73,"Male","Yes","Fri","Dinner",4
 27.28,4,"Male","Yes","Fri","Dinner",2
@@ -220,7 +220,7 @@
 7.74,1.44,"Male","Yes","Sat","Dinner",2
 30.14,3.09,"Female","Yes","Sat","Dinner",4
 12.16,2.2,"Male","Yes","Fri","Lunch",2
-13.42,3.48,"Female","Yes","Fri","Lunch",2
+13.42,"R$ 3,48","Female","Yes","Fri","Lunch",2
 8.58,1.92,"Male","Yes","Fri","Lunch",1
 15.98,3,"Female","No","Fri","Lunch",3
 13.42,1.58,"Male","Yes","Fri","Lunch",2
